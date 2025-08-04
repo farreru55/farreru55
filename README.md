@@ -2,19 +2,11 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=farreru55&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=farreru55&theme=catppuccin_mocha&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=farreru55&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farreru55&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farreru55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=farreru55&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" style="margin-bottom: 20px;" /><br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=farreru55&theme=catppuccin_mocha&hide_border=false" style="margin-bottom: 20px;" /> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farreru55&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ###
 
@@ -30,7 +22,7 @@
 
 ###
 
-![https://instagram.com/farreru.riyal](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://linkedin.com/in/farreru-endra-asrory](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![mailto:farrelendra15@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/farreru.riyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farreru-endra-asrory) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farrelendra15@gmail.com)
 
 ###
 

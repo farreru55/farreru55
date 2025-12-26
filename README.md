@@ -1,60 +1,56 @@
-<h2 align="center">Hello👋! My name is Farrel Endra</h2>
-
-###
-
-<p align="center">
-    <img src="/img/anime-frieren.gif" alt="Frieren Gif" />
-</p>
-
-###
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=farreru55&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" style="margin-bottom: 20px;" /><br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=farreru55&theme=catppuccin_mocha&hide_border=false" style="margin-bottom: 20px;" /> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farreru55&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-###
-
-<h2 align="center">Tech 🖥️</h2>
-
-###
-
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,html,css,js,linux,vim" alt="My Skills" />
-    </a>
-</p>
-
-###
-
-<h2 align="center">Socials 👋</h2>
-
-###
-
-<p align="center">
-    <a href="https://instagram.com/farreru.riyal">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://linkedin.com/in/farreru-endra-asrory">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:farrelendra15@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-</p>
-
-###
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/farreru55/farreru55/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <h1 align="center">Hi there, I'm Farrel Endra! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h3>Student | Developer | Learner</h3>
+</div>
 
 <div align="center">
+  <img src="img/dandadan.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px; max-height: 300px; object-fit: cover;" alt="Frieren Gif" />
+</div>
+<hr/>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cp1a8wdk30rgn3kmq9gulep7w)
+<div align="center">
+  
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=farreru55&theme=catppuccin_mocha&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
-###
+<hr/>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=bootstrap,css,dart,flutter,html,java,js,linux,tailwind,vim&theme=dark" alt="My Skills" />
+    </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/farreru55/farreru55/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+
+<h2 align="center">🎧 Listening to</h2>
+
+<div align="center">
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=cp1a8wdk30rgn3kmq9gulep7w">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cp1a8wdk30rgn3kmq9gulep7w&count=1&width=400" alt="Spotify Recently Played" />
+  </a>
+</div>
+
+<br/>
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<div align="center">
+    <a href="https://instagram.com/farreru.riyal">
+        <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
+    </a>
+    <a href="https://linkedin.com/in/farreru-endra-asrory">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+    </a>
+    <a href="mailto:farrelendra15@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+    </a>
+</div>

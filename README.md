@@ -15,6 +15,7 @@
 </div>
 
 <hr/>
+<br/>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -30,6 +31,8 @@
   <img src="https://raw.githubusercontent.com/farreru55/farreru55/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
+<br/>
+<br/>
 
 <h2 align="center">🎧 Listening to</h2>
 
@@ -39,6 +42,7 @@
   </a>
 </div>
 
+<br/>
 <br/>
 
 <h2 align="center">📫 Connect with Me</h2>

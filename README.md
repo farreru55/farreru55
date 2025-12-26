@@ -4,17 +4,17 @@
 </div>
 
 <div align="center">
-  <img src="img/dandadan.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px; max-height: 300px; object-fit: cover;" alt="Frieren Gif" />
-</div>
-<hr/>
-
-<div align="center">
-  
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=farreru55&theme=catppuccin_mocha&hide_border=false)](https://git.io/streak-stats)
-
+  <img src="img/dandadan.gif    " width="100%" style="border-radius: 10px; margin-bottom: 20px; max-height: 300px; object-fit: cover;" alt="Frieren Gif" />
 </div>
 
-<hr/>
+<br/>
+
+<div align="center"> 
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=farreru55&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
+  </a>
+</div>
+
 <br/>
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -32,7 +32,6 @@
 </div>
 
 <br/>
-<br/>
 
 <h2 align="center">🎧 Listening to</h2>
 
@@ -43,18 +42,19 @@
 </div>
 
 <br/>
-<br/>
 
 <h2 align="center">📫 Connect with Me</h2>
 
 <div align="center">
-    <a href="https://instagram.com/farreru.riyal">
-        <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
+    <a href="https://instagram.com/farreru.riyal" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" style="margin-right: 10px;" />
     </a>
-    <a href="https://linkedin.com/in/farreru-endra-asrory">
-        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+    <a href="https://linkedin.com/in/farreru-endra-asrory" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" style="margin-right: 10px;" />
     </a>
-    <a href="mailto:farrelendra15@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+    <a href="mailto:farrelendra15@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" style="margin-right: 10px;" />
     </a>
 </div>
+
+<br/>

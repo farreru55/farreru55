@@ -4,9 +4,10 @@
 </div>
 
 <div align="center">
-  <img src="img/dandadan.gif    " width="100%" style="border-radius: 10px; margin-bottom: 20px; max-height: 300px; object-fit: cover;" alt="Frieren Gif" />
+  <img src="img/dandadan.gif" width="100%" alt="Frieren Gif" />
 </div>
 
+<br/>
 <br/>
 
 <div align="center"> 
@@ -47,13 +48,15 @@
 
 <div align="center">
     <a href="https://instagram.com/farreru.riyal" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" style="margin-right: 10px;" />
+        <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
     </a>
+    &nbsp;
     <a href="https://linkedin.com/in/farreru-endra-asrory" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" style="margin-right: 10px;" />
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="mailto:farrelendra15@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" style="margin-right: 10px;" />
+        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
     </a>
 </div>
 

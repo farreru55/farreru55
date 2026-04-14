@@ -1,63 +1,41 @@
-<div align="center">
-  <h1 align="center">Hi there, I'm Farrel Endra! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <h3>Student | Developer | Learner</h3>
+## Hi there, I'm Farrel Endra! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+### 👨‍💻 About Me
+
+I'm a Full-Stack Web & Mobile Developer. Most of my work using around Laravel, Javascript, and Flutter. Outside of coding, I spend a lot of time on Linux, tweaking my environment and making my workflow as efficient as possible. Currently an Information Systems undergraduate, balancing projects and organization work.
+
+---
+
+### 💻️️ Skills
+
+<div>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
 </div>
-
-<div align="center">
-  <img src="img/dandadan.gif" width="100%" alt="Frieren Gif" />
-</div>
-
-<br/>
 <br/>
 
-<div align="center"> 
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=farreru55&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
-  </a>
-</div>
+---
 
-<br/>
+### 🌐 Connect with me
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=bootstrap,css,dart,flutter,html,java,js,linux,tailwind,vim&theme=dark" alt="My Skills" />
+<div>
+    <a href="https://wa.me/6285748807212" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/farreru55/farreru55/output/snake.svg" alt="Snake animation" width="100%" />
-</div>
-
-<br/>
-
-<h2 align="center">🎧 Listening to</h2>
-
-<div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=cp1a8wdk30rgn3kmq9gulep7w">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cp1a8wdk30rgn3kmq9gulep7w&count=5&width=400" alt="Spotify Recently Played" />
-  </a>
-</div>
-
-<br/>
-
-<h2 align="center">📫 Connect with Me</h2>
-
-<div align="center">
-    <a href="https://instagram.com/farreru.riyal" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
-    </a>
-    &nbsp;
     <a href="https://linkedin.com/in/farreru-endra-asrory" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    &nbsp;
     <a href="mailto:farrelendra15@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
 </div>
-
-<br/>

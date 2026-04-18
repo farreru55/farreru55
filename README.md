@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Full-Stack Web & Mobile Developer. Most of my work using around Laravel, Javascript, and Flutter. Outside of coding, I spend a lot of time on Linux, tweaking my environment and making my workflow as efficient as possible. Currently an Information Systems undergraduate, balancing projects and organization work.
+A Developer who works with Laravel, Javascript, and Flutter. Outside of coding, I spend a lot of time on Linux, tweaking my environment and making my workflow as efficient as possible. Currently an Information Systems undergraduate, balancing projects and organization work.
 
 ---
 
@@ -37,5 +37,8 @@ I'm a Full-Stack Web & Mobile Developer. Most of my work using around Laravel, J
     </a>
     <a href="mailto:farrelendra15@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://instagram.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
 </div>

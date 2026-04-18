@@ -38,7 +38,7 @@ A Developer who works with Laravel, Javascript, and Flutter. Outside of coding, 
     <a href="mailto:farrelendra15@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://instagram.com/" target="_blank">
+    <a href="https://instagram.com/farreru.riyal" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
 </div>
